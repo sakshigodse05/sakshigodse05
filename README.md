@@ -46,6 +46,6 @@
 ## 📫 Let's Connect
 - **LinkedIn**: [Sakshi Godse](https://www.linkedin.com/)  
 - **GitHub**: [SakshiGodse](https://github.com/)  
-- **Email**: sakshigodse@example.com  
+- **Email**: sakshigodse05@gmail.com  
 
 Feel free to explore my work, collaborate, or share ideas. Together, let's push the boundaries of AI and make a difference! 🚀
