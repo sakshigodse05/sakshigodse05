@@ -37,8 +37,9 @@
 ---
 
 ## 🏆 Achievements
-- 
+- Built real-time Computer Vision applications using Python & OpenCV, demonstrating strong image processing skills and hands-on CV prototype development.
 
+- Completed multiple AI/ML and Deep Learning assignments involving CNNs, model training, and real-time detection, strengthening practical applied AI skills.
 ---
 
 ## 📫 Let's Connect
