@@ -37,15 +37,13 @@
 ---
 
 ## 🏆 Achievements
-- Developed a self-driving car solution leveraging onboard cameras and a central server for processing speed, acceleration, and road friction data.  
-- Presented on **Applied Statistics in Real-Time Forecasting**.  
-- Implemented advanced AI models without relying on LIDAR or RADAR, showcasing innovative problem-solving skills.  
+- 
 
 ---
 
 ## 📫 Let's Connect
 - **LinkedIn**: [Sakshi Godse](https://www.linkedin.com/)  
 - **GitHub**: [SakshiGodse](https://github.com/)  
-- **Email**: sakshigodse05@gmail.com  
+- **Email**: sakshisgodse05@gmail.com  
 
 Feel free to explore my work, collaborate, or share ideas. Together, let's push the boundaries of AI and make a difference! 🚀
